@@ -97,8 +97,10 @@ If you prefer using Visual Studio Code or another IDE:
 
 ## Acknowledgements
 
-- **JavaFX Documentation**: For providing a rich UI framework to create an interactive user interface.
-- **Oracle Java Documentation**: For RSA and AES cryptographic functionalities.
+- **JavaFX Documentation**: For providing a rich UI framework to create an interactive user interface. ([JavaFX Documentation](https://openjfx.io/))
+- **Oracle Java Documentation**: For RSA and AES cryptographic functionalities. ([Oracle Java Documentation](https://docs.oracle.com/en/java/))
+- **Stack Overflow**: For troubleshooting various JavaFX and Java compilation issues. ([Stack Overflow](https://stackoverflow.com/))
+- **GitHub Gists**: For providing examples on how to work with RSA and AES encryption in Java. ([GitHub Gists](https://gist.github.com/))
 
 Feel free to reach out for more guidance or if you face any issues running the project. Enjoy exploring cryptographic encryption with Java and JavaFX!
 
