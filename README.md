@@ -47,7 +47,7 @@ RSA_AES_PROJECT/
 Before compiling, make sure the `bin` directory is empty:
 
 ```sh
-macbpro@Maison RSA_AES_Project % rm -rf bin/*
+macbpro@Meme RSA_AES_Project % rm -rf bin/*
 ```
 
 You will be prompted to confirm the deletion of files in the `bin` directory. Press `y` to confirm.
