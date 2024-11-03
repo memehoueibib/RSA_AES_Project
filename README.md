@@ -31,6 +31,7 @@ RSA_AES_PROJECT/
   ├── javafx-sdk-23.0.1/    # JavaFX SDK library
   ├── resources/            # Resources directory containing the logo image
   ├── src/                  # Source code directory
+  ├── Screens of the app/   # Screenshots of the application
   ├── README.md             # Project README file
   └── launch.json           # VS Code launch configuration (optional)
 ```
@@ -76,6 +77,16 @@ macbpro@Meme RSA_AES_Project % java --module-path javafx-sdk-23.0.1/lib --add-mo
 - `--add-modules javafx.controls,javafx.fxml`: Loads necessary JavaFX modules.
 - `-Dprism.order=sw`: Ensures software rendering is used, which can be helpful for compatibility.
 - `-cp bin MainGUI`: Runs the `MainGUI` class from the compiled classes.
+
+## Screenshots of the Application
+
+### Welcome Screen
+
+![Welcome Screen](Screens%20of%20the%20app/Welcome.png)
+
+### Start Screen
+
+![Start Screen](Screens%20of%20the%20app/Start.png)
 
 ## Important Notes
 
