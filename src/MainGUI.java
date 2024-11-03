@@ -20,7 +20,7 @@ public class MainGUI extends Application {
     public void start(Stage primaryStage) {
         // Welcome Screen
         Stage welcomeStage = new Stage();
-        welcomeStage.setTitle("Welcome to Encryption App");
+        welcomeStage.setTitle("RSA and AES Encryption App");
         VBox welcomeLayout = new VBox(20);
         welcomeLayout.setPadding(new Insets(20));
 
@@ -59,7 +59,7 @@ public class MainGUI extends Application {
             showAlert("Error generating keys: " + e.getMessage(), Alert.AlertType.ERROR);
         }
 
-        primaryStage.setTitle("Encryption App");
+        primaryStage.setTitle("RSA and AES Encryption App");
         GridPane grid = new GridPane();
         grid.setPadding(new Insets(10));
         grid.setHgap(10);
